@@ -1,0 +1,18 @@
+{
+    "name": "mamaev/sf_composer",
+    "description": "sf_composer",
+    "autoload": {
+        "psr-4": {
+            "Mamaev\\SfComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Mamaev",
+            "email": "a.mamaevs@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
